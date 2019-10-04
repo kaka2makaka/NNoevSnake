@@ -1,0 +1,3 @@
+﻿SnakeView.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp_PlaySoundW в функции "public: void __cdecl CSnakeView::OnTimer(unsigned __int64)" (?OnTimer@CSnakeView@@QEAAX_K@Z)
+SnakeView.obj : error LNK2019: ссылка на неразрешенный внешний символ MCIWndCreateW в функции "public: void __cdecl CSnakeView::OnSTART(void)" (?OnSTART@CSnakeView@@QEAAXXZ)
+C:\Users\Дима\Documents\Visual Studio 2015\Projects\Snake-Game-master\x64\Debug\Snake.exe : fatal error LNK1120: неразрешенных внешних элементов: 2

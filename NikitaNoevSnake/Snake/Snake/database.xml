@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record>
+	<highest id="low">
+		<level>low</level>
+		<score>10</score>
+		<level>1</level>
+		<time>2018/02/12 22:02:43.347</time>
+	</highest>
+	<highest id="default">
+		<level>default</level>
+		<score>1</score>
+		<level>3452816845</level>
+		<time>2019/10/03 12:53:36.635</time>
+	</highest>
+	<highest id="high">
+		<level>high</level>
+		<score>10</score>
+		<level>1</level>
+		<time>2018/02/17 17:06:16.410</time>
+	</highest>
+</record>
